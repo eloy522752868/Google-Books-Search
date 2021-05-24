@@ -11,7 +11,7 @@
 
 ## Decription
 
-My Portfolio has been updated to React.js and added multiple new projects to share. With this repo, i am showcasing my portfolio using latest technologies.
+In this activity, I create a new React-based Google Books Search app. It required you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Also use Node, Express and MongoDB so that users can save books to review or purchase later.
 
 ## Insatllation
 
@@ -19,17 +19,17 @@ npm i
 
 ### Screenshot
 
-![Screenshot](./public/images/portfolio.png)
+![Screenshot](./public/images/googleshearch.png)
 
 ### Details
 
 Github Repo link:
 
-[Github Repo link](https://github.com/eloy522752868/portfolio-react_js)
+[Github Repo link](https://github.com/eloy522752868/google-books-search)
 
 Web page :
 
-[Link](https://eloy522752868.github.io/portfolio-react_js/)
+[Link](https://eg-google-books-search.herokuapp.com/)
 
 ## Contributing
 
