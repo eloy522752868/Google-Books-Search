@@ -19,7 +19,7 @@ npm i
 
 ### Screenshot
 
-![Screenshot](../public/images/googleshearch.png)
+![Screenshot](./googleshearch.png)
 
 ### Details
 
